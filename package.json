@@ -8,7 +8,7 @@
     "url": "https://github.com/ryoid/bandung-ice-theme.git"
   },
   "description": "Lavender Rose with a hint of Ice Blue",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -21,6 +21,16 @@
         "label": "Bandung Ice",
         "uiTheme": "vs-dark",
         "path": "./themes/bandung-ice-color-theme.json"
+      },
+      {
+        "label": "Bandung Ice Darkest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bandung-ice-darkest-color-theme.json"
+      },
+      {
+        "label": "Bandung Ice Light",
+        "uiTheme": "vs",
+        "path": "./themes/bandung-ice-light-color-theme.json"
       }
     ]
   }
