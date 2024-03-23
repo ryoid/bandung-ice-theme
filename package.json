@@ -1,6 +1,7 @@
 {
-  "name": "dawn-dark",
-  "displayName": "dawn-dark",
+  "name": "bandung-ice",
+  "displayName": "Bandung Ice",
+  "publisher": "ryanjc",
   "repository": {
     "type": "git",
     "url": "https://github.com/ryoid/dawn-theme.git"
@@ -16,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "dawn dark",
+        "label": "Bandung Ice",
         "uiTheme": "vs-dark",
-        "path": "./themes/dawn dark-color-theme.json"
+        "path": "./themes/bandung ice-color-theme.json"
       }
     ]
   }
