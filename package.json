@@ -1,13 +1,14 @@
 {
   "name": "bandung-ice",
   "displayName": "Bandung Ice",
+  "icon": "assets/icon.png",
   "publisher": "ryanjc",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ryoid/dawn-theme.git"
+    "url": "https://github.com/ryoid/bandung-ice-theme.git"
   },
-  "description": "",
-  "version": "0.0.1",
+  "description": "Bandung Ice Theme",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -19,7 +20,7 @@
       {
         "label": "Bandung Ice",
         "uiTheme": "vs-dark",
-        "path": "./themes/bandung ice-color-theme.json"
+        "path": "./themes/bandung-ice-color-theme.json"
       }
     ]
   }

@@ -1,5 +1,9 @@
 # bandung-ice README
 
+[VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=ryanjc.bandung-ice)
+
+[Preview VSCode Webview](https://vscode.dev/editor/theme/ryanjc.bandung-ice/Bandung%20Ice)
+
 ## Development
 
 ```bash
