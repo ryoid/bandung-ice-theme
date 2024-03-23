@@ -1,6 +1,8 @@
 # Bandung Ice
 
-[![Theme Preview Solid.js Code](/assets/preview-solidjs.png)](https://vscodethemes.com/e/ryanjc.bandung-ice)
+[![Preview Theme Solid.js Code](/assets/preview-solidjs.png)](https://vscodethemes.com/e/ryanjc.bandung-ice/bandung-ice)
+[![Preview Darkest Theme Solid.js Code](/assets/preview-darkest-solidjs.png)](https://vscodethemes.com/e/ryanjc.bandung-ice/bandung-ice-darkest)
+[![Preview Light ThemeSolid.js Code](/assets/preview-light-solidjs.png)](https://vscodethemes.com/e/ryanjc.bandung-ice/bandung-ice-light)
 
 [VSCode Theme](https://vscodethemes.com/e/ryanjc.bandung-ice) | [Marketplace](https://marketplace.visualstudio.com/items?itemName=ryanjc.bandung-ice)
 
